@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// ======== Utilities =========
+
+.background-gris {
+    background-color: #c8dfe2;
+}
+.background-azul {
+    background-color: #0c1861 !important;
+    color: #fff !important;
+}
+
+.color-azul {
+    color: #0c1861 !important;
+
+}
+
+.sin-border {
+    border-bottom: unset !important;
+}
+
+h1 {
+    font-family: 'Roboto Condensed';
+    font-weight: 600;
+}
+
+h5, h4, p {
+    font-family: 'Roboto';
+}
+

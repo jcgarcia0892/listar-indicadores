@@ -1,5 +1,3 @@
-# listar-indicadores
-
 # ListarIndicadores
 
 Este proyecto fue generado [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
